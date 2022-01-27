@@ -1,27 +1,29 @@
 # Welcome ✌
 ## About Me
+My name is **Lucas**, however I go by **puntero** online.
 
-- 👤 My name is **Lucas**, however I go by **puntero** online.
-- 👨‍💻 I'm a Freelance Software Developer currently studying Systems' Engineering in Argentina
-- ❤ I love working on **Team Fortress 2** related projects and learning about new technologies for development. Everything is great in this environment!
+I'm an in-the-works Software Developer currently studying Systems' Engineering in Argentina.
+
+I tend to adapt into work environments easily and am keen on learning new technologies and good practices on software development from anyone, preferably back-end and web-related services. I'm still learning!
+
+## Knowledge
+- NestJS (TypeScript & JavaScript)
+   - Backend
+   - Routing, Controllers & Services
+   - MongoDB Integration
+- Discord Bot Clients
+- SourcePawn (SourceMod Plugins)
+- MongoDB & MySQL
+- Apache (PHP, HTML5, CSS, JS)
+   - Apache Configuration & Setup
+- Linux (Intermediate)
+
+## Knowledge (Planning on Taking)
+- DevOps: Kubernetes, Docker & Jenkins
+- Linux Sysadmin & Environment Configuration
+- NextJS / React
 
 ## Contact
 
 * 📧 **mazalucas@hotmail.com**
-* For other networks, contact me here!
-
-
-<!--
-**punteroo/punteroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Discord: **puntero#6566**
