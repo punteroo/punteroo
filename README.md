@@ -27,3 +27,8 @@ I tend to adapt into work environments easily and am keen on learning new techno
 
 * 📧 **mazalucas@hotmail.com**
 * Discord: **puntero#6566**
+
+<p style="float: left;">
+   <img src="https://github-readme-stats.vercel.app/api?username=punteroo&show_icons=true&count_private=true" height="150">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punteroo&show_icons=true&count_private=true&layout=compact" height="150">
+</p>
