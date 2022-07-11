@@ -11,6 +11,7 @@ I tend to adapt into work environments easily and am keen on learning new techno
    - Backend
    - Routing, Controllers & Services
    - MongoDB Integration
+- Google Cloud Platform (Intermediate)
 - Discord Bot Clients
 - SourcePawn (SourceMod Plugins)
 - MongoDB & MySQL
