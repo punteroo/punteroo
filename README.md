@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Lucas</h1>
-<h3>Full-stack Developer from Córdoba, Argentina.</h3>
+<h3>Software Engineer from Córdoba, Argentina.</h3>
 
 - Currently working @ **[Universidad Kuepa](https://universidaduk.com)**
 
