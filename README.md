@@ -6,4 +6,4 @@ Software Engineer with some experience on back-end architecture (DevOps) and arc
 
 Proficient in Node environments using Typescript.
 
-Currently a student at [**UTN FRVM**](https://frvm.utn.edu.ar/) in Systems' Engineering.
+Systems Engineer.
